@@ -53,7 +53,7 @@
                 return false;
             }
             else{
-                alert("Sucess");
+                alert("Successfully Done.....");
                 course.focus();
                 return false;
             }
